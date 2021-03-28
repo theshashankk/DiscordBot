@@ -44,13 +44,12 @@
 },
  "RIOT_KEY"
   "discription": "Riot's API key, used for player and match search commands.
-  BE WARNED, a development key will be very limited and most of the time will not work,
-  as there is a lot of requests made in order to complete these data sets."
+"
 "required": false
 },
 "WOLFRAM_KEY"
 "discription": " Wolfram Alpha API key, used to query Wolfram Alpha with `!wolfram`.
-  Apply for a key here. http://products.wolframalpha.com/developers "
+  . http://products.wolframalpha.com/developers "
 "required": false
 },
 "PASTEBIN_KEY"
@@ -59,22 +58,22 @@
 },
 "POPKEY_KEY"
 "discription": "Popkey API key, used for searching GIFs with `!popkey`.
-Get a key here. http://pastebin.com/api "
+ . http://pastebin.com/api "
 "required": false
 },
 "RANDOM_KEY"
 "discription": "Random.org API key, used for getting random numbers and strings with `!random`
- Get a key here. https://api.random.org/api-keys "
+ . https://api.random.org/api-keys "
 "required" false
 },
 "CLEVERBOT_KEY"
 "description": "Cleverbot API key, used for talking with `!chat`.
-  Get a key here. https://www.cleverbot.com/api "
+   https://www.cleverbot.com/api "
 "required": false
 },
 "CARBON_KEY"
 "description": "Carbon and Discord Bots key, used for displaying server count on specific websites.
-  More information here. https://www.carbonitex.net/discord/bots & https://bots.discord.pw/api "
+  . https://www.carbonitex.net/discord/bots & https://bots.discord.pw/api "
 "required": false
 },
 "DBOTS_KEY"
